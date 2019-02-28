@@ -1,0 +1,12 @@
+C:\Users\Tuchy\source\repos\Simple Calculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\Tuchy\source\repos\Simple Calculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\Tuchy\source\repos\Simple Calculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\Tuchy\source\repos\Simple Calculator\SimpleCalculator\bin\Debug\SimpleCalculator.xml
+C:\Users\Tuchy\source\repos\Simple Calculator\SimpleCalculator\obj\Debug\SimpleCalculator.vbprojResolveAssemblyReference.cache
+C:\Users\Tuchy\source\repos\Simple Calculator\SimpleCalculator\obj\Debug\SimpleCalculator.Form1.resources
+C:\Users\Tuchy\source\repos\Simple Calculator\SimpleCalculator\obj\Debug\SimpleCalculator.Resources.resources
+C:\Users\Tuchy\source\repos\Simple Calculator\SimpleCalculator\obj\Debug\SimpleCalculator.vbproj.GenerateResource.Cache
+C:\Users\Tuchy\source\repos\Simple Calculator\SimpleCalculator\obj\Debug\SimpleCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\Tuchy\source\repos\Simple Calculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\Tuchy\source\repos\Simple Calculator\SimpleCalculator\obj\Debug\SimpleCalculator.xml
+C:\Users\Tuchy\source\repos\Simple Calculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
